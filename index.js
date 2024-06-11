@@ -1,5 +1,5 @@
 const config = require('./config.js');
-require("./bot.js");
+const config = require("./bot.js");
 
 /*
 
